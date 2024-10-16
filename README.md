@@ -1,6 +1,7 @@
 # bases-prueba
 Esta es la descripción
 
+![La mejor imagen de Linux](EricHines1.jpg)
 ## Sección: 
 Una lista:
 - Hola.
